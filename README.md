@@ -35,4 +35,4 @@ per-table mapping.
 
 ## License
 
-Released under the PolyForm Noncommercial License 1.0.0 (noncommercial use only); see `LICENSE`.
+Released under the Prosperity Public License 3.0.0 (free for noncommercial, research, and educational use; 30-day commercial trial); see `LICENSE`.
