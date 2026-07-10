@@ -1,0 +1,9 @@
+# AgentGuard-DiD — reproduction dependencies
+# Mode A (cached reproduction of all paper tables) needs only the Python stdlib.
+# The following are for training/serving/plotting scripts (Modes B/C):
+scikit-learn>=1.3
+numpy>=1.24
+matplotlib>=3.7
+joblib>=1.3
+pyyaml>=6.0
+# Model serving (Mode C, open judges/guards): vllm, llama-cpp-python (see experiments/GPU_SERVING.md)

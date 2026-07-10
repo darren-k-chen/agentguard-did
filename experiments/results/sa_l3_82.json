@@ -1,0 +1,10 @@
+{
+ "train": 73,
+ "test": 19,
+ "f1": 0.571,
+ "auc": 0.761,
+ "precision": 0.667,
+ "recall": 0.5,
+ "test_mal": 8,
+ "test_ben": 11
+}

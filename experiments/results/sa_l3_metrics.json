@@ -1,0 +1,17 @@
+{
+ "n_mal": 39,
+ "n_ben": 53,
+ "signature": {
+  "f1": 0.517,
+  "recall": 0.385,
+  "precision": 0.789,
+  "caught_mal": 15
+ },
+ "ml": {
+  "f1": 0.6,
+  "auc": 0.684,
+  "recall": 0.538,
+  "precision": 0.677,
+  "caught_mal": 21
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "model": "distilroberta-base",
+ "teacher": "claude-sonnet-4-6",
+ "protocol": "GroupShuffleSplit unseen-skill",
+ "n_total": 225,
+ "n_pos": 44,
+ "n_test": 37,
+ "f1": 0.583,
+ "recall": 0.778,
+ "precision": 0.467,
+ "auc": 0.869
+}

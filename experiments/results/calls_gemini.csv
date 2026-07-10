@@ -1,0 +1,2 @@
+ts,tier,model,role,item,in_tok,out_tok,cost_usd,verdict
+1783060927,B1,gemini,gt,runs_organize/comparison/qwen3.5-122b-a10b/docx_password_protection/baseline/surface_01_baseline/round_01.json,0,0,0.0,ERR:HTTP Error 429: Too Many Requests

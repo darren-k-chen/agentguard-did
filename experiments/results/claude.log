@@ -1,0 +1,8 @@
+B1 items: 100 ( 50 success / 50 ignore )
+  B1 claude done
+  B2 claude done
+
+=== COST SUMMARY (full) ===
+  B1  claude   calls=100   in=275891   out=3281    $0.8769
+  B2  claude   calls=256   in=294054   out=7995    $1.0021
+  GRAND TOTAL: $1.8790

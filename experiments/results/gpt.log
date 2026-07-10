@@ -1,0 +1,8 @@
+B1 items: 100 ( 50 success / 50 ignore )
+  B1 gpt done
+  B2 gpt done
+
+=== COST SUMMARY (gpt) ===
+  B1  gpt      calls=100   in=234275   out=2481    $0.6105
+  B2  gpt      calls=256   in=249576   out=5824    $0.6822
+  GRAND TOTAL: $1.2927

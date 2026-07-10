@@ -1,0 +1,40 @@
+{
+ "n": 66,
+ "per_method": [
+  {
+   "method": "L1-prompt",
+   "claude": 62.1,
+   "qwen": 36.4,
+   "claude_n": 41,
+   "qwen_n": 24
+  },
+  {
+   "method": "L1-skill",
+   "claude": 36.4,
+   "qwen": 25.8,
+   "claude_n": 24,
+   "qwen_n": 17
+  },
+  {
+   "method": "L2-cmd",
+   "claude": 36.4,
+   "qwen": 39.4,
+   "claude_n": 24,
+   "qwen_n": 26
+  },
+  {
+   "method": "L2-effect",
+   "claude": 63.6,
+   "qwen": 16.7,
+   "claude_n": 42,
+   "qwen_n": 11
+  }
+ ],
+ "stack": {
+  "claude_llm": 83.3,
+  "qwen_llm": 63.6,
+  "claude_full": 84.8,
+  "qwen_full": 71.2
+ },
+ "verdict": "Claude 全面優於 qwen 當防禦 judge——尤其 L2-effect(64% vs 17%)。同族模型(qwen 判 qwen 生成攻擊)反而最弱；強的異族模型(Claude)當守門最佳。"
+}

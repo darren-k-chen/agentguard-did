@@ -1,0 +1,9 @@
+{
+ "model": "nemotron-70b",
+ "n": 71,
+ "success": 32,
+ "ignore": 37,
+ "technical": 2,
+ "asr_over_n": 45.1,
+ "asr_testable": 46.4
+}
