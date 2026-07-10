@@ -35,4 +35,4 @@ per-table mapping.
 
 ## License
 
-Released under the MIT License; see `LICENSE`.
+Released under the PolyForm Noncommercial License 1.0.0 (noncommercial use only); see `LICENSE`.
